@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Arquivos de Cabeçalho"
+                   projectFiles="true">
+      <itemPath>Arquivo.h</itemPath>
+      <itemPath>Ascii.h</itemPath>
+      <itemPath>Lista.h</itemPath>
+      <itemPath>ListaEncadeada.h</itemPath>
+      <itemPath>No.h</itemPath>
+      <itemPath>NoAscii.h</itemPath>
+      <itemPath>NoString.h</itemPath>
+      <itemPath>Node.h</itemPath>
+      <itemPath>Percurso.h</itemPath>
+      <itemPath>Queue.h</itemPath>
+      <itemPath>Stack.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Arquivos de Código-Fonte"
+                   projectFiles="true">
+      <itemPath>Arquivo.cpp</itemPath>
+      <itemPath>Ascii.cpp</itemPath>
+      <itemPath>Lista.cpp</itemPath>
+      <itemPath>ListaEncadeada.cpp</itemPath>
+      <itemPath>No.cpp</itemPath>
+      <itemPath>NoAscii.cpp</itemPath>
+      <itemPath>NoString.cpp</itemPath>
+      <itemPath>Node.cpp</itemPath>
+      <itemPath>Percurso.cpp</itemPath>
+      <itemPath>Queue.cpp</itemPath>
+      <itemPath>Stack.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Arquivos de Recurso"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Arquivos de Teste"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Arquivos Importantes"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="Arquivo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Arquivo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ascii.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ascii.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Lista.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Lista.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaEncadeada.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaEncadeada.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="No.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="No.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NoAscii.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NoAscii.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NoString.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NoString.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Node.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Node.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Percurso.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Percurso.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Queue.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Queue.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Stack.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Stack.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Arquivo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Arquivo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ascii.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ascii.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Lista.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Lista.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaEncadeada.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaEncadeada.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="No.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="No.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NoAscii.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NoAscii.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NoString.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NoString.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Node.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Node.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Percurso.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Percurso.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Queue.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Queue.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Stack.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Stack.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
